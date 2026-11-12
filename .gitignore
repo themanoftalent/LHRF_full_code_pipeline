@@ -1,0 +1,12 @@
+results*/
+data/
+*.mat
+*.asv
+*.mlx.autosave
+__pycache__/
+.pytest_cache/
+.env
+
+.DS_Store
+Icon*
+
